@@ -1,2 +1,2 @@
-# biohacking
-collection on biohacks
+# Biohacking
+Collection on biohacks
